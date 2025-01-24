@@ -2,6 +2,8 @@
 
 Welcome to the backend of the Blog Project! This project is built using **TypeScript**, **Express**, **Mongoose**, and **MongoDB**. It provides the server-side functionalities for a robust and efficient blogging platform.
 
+LIVELINK: https://blogbackendproject.vercel.app
+
 ## Features ✨
 
 - **Authentication and Authorization** 🔒: Secure user authentication and role-based access control using JWT.
